@@ -23,5 +23,6 @@ public class Pres2 {
         method.invoke(metier, dao);
 
         System.out.println("Result ===> " + metier.calcul());
+        System.out.println();
     }
 }

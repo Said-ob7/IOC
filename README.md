@@ -26,3 +26,9 @@
 
 <h1>Injection Dynamique :</h1>
 <img src="Captures/InjectionDynamique.png">
+
+<h1>Version XML :</h1>
+<img src="Captures/XML.png">
+
+<h1>Version Annotation :</h1>
+<img src="Captures/Annotation.png">
